@@ -1,0 +1,7 @@
+# Local secrets — never commit
+.env
+.env.local
+.env.*.local
+
+# Optional local password file (if you use SNOWFLAKE_PASSWORD_FILE next to the project)
+snowflake_password.txt
