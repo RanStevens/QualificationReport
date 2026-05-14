@@ -1,6 +1,6 @@
 # QualificationReport
 
-A Go project for generating qualification reports and working with Snowflake data.
+A Go project for generating qualification reports and working with Snowflake data. Compares the latest commission run with the last locked run.
 
 ## Overview
 
